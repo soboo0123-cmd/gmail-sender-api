@@ -4,7 +4,7 @@
   ],
   "functions": {
     "api/main.py": {
-      "runtime": "python",
+      "runtime": "@vercel/python",
       "memory": 512,
       "maxDuration": 10
     }
